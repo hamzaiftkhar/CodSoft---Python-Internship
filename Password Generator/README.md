@@ -13,7 +13,7 @@ The Password Generator is a simple Python program that allows you to generate st
 1. Clone this repository to your local machine.
 
 ```shell
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/hamzaiftkhr/password-generator.git
 cd password-generator
 ```
 
