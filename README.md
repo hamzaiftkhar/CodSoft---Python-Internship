@@ -29,16 +29,16 @@ and organize their tasks efficiently. This project aims to create a
 command-line or GUI-based application using Python, allowing
 users to create, update, and track their to-do lists.
 
-- [To-Do List]()
+- [To-Do List](https://github.com/hamzaiftkhar/CodSoft---Python-Internship/tree/main/Todo%20App)
 
 ### 2. Rock-Paper-Scissors Game
 
 The Rock-Paper-Scissors Game is a simple Python program that allows you to play the classic game against a computer opponent. This program runs in the command-line interface (CLI) and provides a user-friendly way to enjoy the game.
 
-- [Rock-Paper-Scissors Game]()
+- [Rock-Paper-Scissors Game](https://github.com/hamzaiftkhar/CodSoft---Python-Internship/tree/main/Rock-Paper-Game)
 
 ### 3. Password Generator
 
 A password generator is a useful tool that helps users create strong and secure passwords. This project aims to create a command-line or GUI-based application using Python, allowing users to generate random passwords based on their preferences.
 
-- [Password Generator]()
+- [Password Generator](https://github.com/hamzaiftkhar/CodSoft---Python-Internship/tree/main/Password%20Generator)
