@@ -32,5 +32,3 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 ## Acknowledgments
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for providing a simple GUI toolkit for Python.
-
-That's it! This simplified README provides essential information about the application and how to get started without unnecessary details.
