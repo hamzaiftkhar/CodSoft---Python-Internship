@@ -42,3 +42,7 @@ The Rock-Paper-Scissors Game is a simple Python program that allows you to play 
 A password generator is a useful tool that helps users create strong and secure passwords. This project aims to create a command-line or GUI-based application using Python, allowing users to generate random passwords based on their preferences.
 
 - [Password Generator](https://github.com/hamzaiftkhar/CodSoft---Python-Internship/tree/main/Password%20Generator)
+
+## Internship Certificate
+
+![Internship Certificate]()
