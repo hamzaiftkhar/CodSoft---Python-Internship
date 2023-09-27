@@ -45,4 +45,4 @@ A password generator is a useful tool that helps users create strong and secure 
 
 ## Internship Certificate
 
-![Internship Certificate]()
+![Internship Certificate](https://github.com/hamzaiftkhar/CodSoft---Python-Internship/blob/main/certificate.jpg)
