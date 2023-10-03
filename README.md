@@ -1,4 +1,4 @@
-# CodSoft---Python-Internship
+# CodSoft -- Python-Internship
 
 ## CodSoft
 
